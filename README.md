@@ -1,2 +1,2 @@
 # even-odd-checker
-C program t check or odd numbers
+C program to check even or odd numbers
